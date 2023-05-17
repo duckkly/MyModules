@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="mod1">C346 Mobile App Development</string>
+    <string name="mod2">C206 Software Development Process</string>
+    <string name="mod3">C235 IT Security Management</string>
+    <string name="mod4">C218 UI UX Design for Apps</string>
+    <string name="reset">RESET</string>
+</resources>
